@@ -25,6 +25,20 @@ h2 {
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 10px;
+}
+
+.slika p:last-child {
+    font-size: 0.8em;
+    margin-top: 0.2em;
+}
+
+.slika p:nth-child(even) {
+    font-style: italic;
+}
+
+a::before {
+    content: "> ";
 }
 
 body {
