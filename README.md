@@ -1,6 +1,5 @@
-# Računalniški praktikum
+## Računalniski praktikum
 2. domača naloga
-# Računalniski praktikum
 # Upravljanje z okni: Win + ↑↓←→
-# Paleta ukazov: Ctrl + Shift + P
+# Minimising and maxising window: Ctrl + Shift + '+' ali '-'
 # Premikanje vrstice gor ali dol: Alt + ↑↓
