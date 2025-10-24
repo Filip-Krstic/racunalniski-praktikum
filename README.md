@@ -1,4 +1,4 @@
-# Računalniski praktikum
+# Računalniški praktikum
 ### Upravljanje z okni: 
 _Win + ↑↓←→_
 ### Minimising and maxising window: 
